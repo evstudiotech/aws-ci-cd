@@ -1,6 +1,6 @@
 **Serverless CI/CD with AWS**
 
-This content has also been distributed as a medium blog post :-
+**Code Pipeline Sample:**
 
-https://medium.com/@paulforsyth/serverless-ci-cd-with-aws-part-1-the-console-story-d0796d2cdd0c
-
+AWS Code pipeline supports git, bitbucket and code commit(Which is AWS private repo) repositorys
+![image](https://user-images.githubusercontent.com/94220395/141615517-4335cbe3-1e05-4d46-9c24-64bf64f8ad29.png)
